@@ -1,0 +1,7 @@
+</tr>
+<tr>
+<td>
+<span>service</span>
+<span>price руб.</span>
+</td>
+</tr>

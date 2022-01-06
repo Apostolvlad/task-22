@@ -1,0 +1,9 @@
+<h2 style="margin-bottom: 15px;">sectionName — цена cityName</h2>
+<table class="rootStyles">
+<tr>
+<th>
+<span>sectionName - стоимость</span>
+<span>Цена, руб.</span>
+</th>
+childs
+</table>
